@@ -32,7 +32,13 @@ Unduh Codeigniter dari website https://codeigniter.com/download
 
 ![ss4](https://user-images.githubusercontent.com/73066008/173904416-6ea3713c-53d4-4397-801c-6c29952b6e9c.png)
 
-## Pada Codeigniter, request yang diterima oleh file index.php akan diarahkan ke Router untuk meudian oleh router tesebut diarahkan ke Controller. Router terletak pada file app/config/Routes.php, Tambahkan kode berikut di dalam Routes.php :
+## Routing dan Controller 
+Pada Codeigniter, request yang diterima oleh file index.php akan diarahkan ke Router untuk meudian oleh router tesebut diarahkan ke Controller. Router terletak pada file app/config/Routes.php
+
+![ss5 (1)](https://user-images.githubusercontent.com/73066008/173909254-76d1ec24-c3c3-48e2-9d1a-64ad9e0b43f3.png)
+
+## Membuat Route Baru
+Tambahkan kode berikut di dalam Routes.php :
 
 ![ss5](https://user-images.githubusercontent.com/73066008/173904438-db96f6f0-6d9d-4a81-8679-e8a0daffb9dc.png)
 
